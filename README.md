@@ -2,4 +2,4 @@
 
 # Design-Studio-Website
 
-This is the website for my Design Studio
+This is the repository for my Design Studio Website
